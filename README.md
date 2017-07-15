@@ -56,3 +56,6 @@ _Note_: I recommend starting with a tutorial and then looking at the Eth docs be
 ### Products
  - [Product Hunt](https://www.producthunt.com)
  - [Product Hunt / Crypto](https://www.producthunt.com/topics/cryptocurrencies)
+
+### Other Resource Lists
+ - [CryptoMinded](https://cryptominded.com/)
